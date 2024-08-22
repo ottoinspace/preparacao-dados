@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7728a61a-33e2-4b26-8f1f-5f2320a80e06" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/intro_preparacao_dados.py" afterDir="false" />
+    <list default="true" id="7728a61a-33e2-4b26-8f1f-5f2320a80e06" name="Changes" comment="intro_preparacao_dados.py finalizado">
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/normalizacao_padronizacao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.intro_preparacao_dados.executor": "Run",
+    "Python.normalizacao_padronizacao.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
@@ -80,12 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724348076650</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="intro_preparacao_dados.py finalizado">
+      <option name="closed" value="true" />
+      <created>1724351232640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724351232640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="intro_preparacao_dados.py finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro_preparacao_dados.py finalizado" />
   </component>
 </project>
