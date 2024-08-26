@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7728a61a-33e2-4b26-8f1f-5f2320a80e06" name="Changes" comment="intro_preparacao_dados.py finalizado">
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/normalizacao_padronizacao.py" afterDir="false" />
+    <list default="true" id="7728a61a-33e2-4b26-8f1f-5f2320a80e06" name="Changes" comment="normalizacao_padronizacao.py finalizado">
+      <change afterPath="$PROJECT_DIR$/codificacao_variaveis_categoricas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -51,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.codificacao_variaveis_categoricas.executor": "Run",
     "Python.intro_preparacao_dados.executor": "Run",
     "Python.normalizacao_padronizacao.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,13 +90,22 @@
       <option name="project" value="LOCAL" />
       <updated>1724351232640</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="normalizacao_padronizacao.py finalizado">
+      <option name="closed" value="true" />
+      <created>1724353099416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724353099416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="intro_preparacao_dados.py finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="intro_preparacao_dados.py finalizado" />
+    <MESSAGE value="normalizacao_padronizacao.py finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="normalizacao_padronizacao.py finalizado" />
   </component>
 </project>

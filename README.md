@@ -5,3 +5,5 @@ identificação de dados únicos, e a apresentação de estatísticas detalhadas
 ## Normalizacao_padronizacao.py
 Dedicado ao uso do Scikit-learn para a normalização e tratamento de dados, onde utilizamos as colunas "salário" e "idade" para comparar os 
 resultados obtidos com os métodos RobustScaler, MinMaxScaler e StandardScaler.
+## Codificacao_variaveis_categoricas.py
+Neste arquivo, utilizam-se métodos para codificar variáveis de string em dados numéricos, como One-Hot Encoding, Ordinal Encoding, `.cat.codes` e `LabelEncoder()`.
